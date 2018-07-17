@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cerc2D
+comment1.params=
+comment1.target=Cerc2D()
+comment2.params=r
+comment2.target=Cerc2D(double)
+comment3.params=
+comment3.target=double\ getArie()
+comment4.params=
+comment4.target=double\ getLungime()
+numComments=5
